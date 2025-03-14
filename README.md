@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wasp</h1>
 <h3 align="center">A little nerd from Canada</h3>
 
-- 🔭 I’m currently working on [A story game](https://github.com/Waspsting/StorySilly)
+- 🔭 I’m currently working on [a Balatro mod](https://github.com/Waspsting/GGBalatro)
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning [Steamodded](https://github.com/Steamodded/smods)
 
 - ⚡ Fun fact **I use gentoo linux**
 
